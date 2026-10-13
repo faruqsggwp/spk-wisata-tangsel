@@ -1,0 +1,6 @@
+{
+  "name": "SPK Wisata Tangsel",
+  "description": "Sistem Pendukung Keputusan Pemilihan Destinasi Wisata di Tangerang Selatan menggunakan Metode MOORA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
